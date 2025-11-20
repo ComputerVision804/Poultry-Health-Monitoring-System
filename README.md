@@ -65,7 +65,5 @@ python main.py --source your_video.mp4
 📌 Future Improvements
 Thermal camera integration
 Disease prediction model
-
 Cloud dashboard + alerts
 
-Mobile app for farmers
